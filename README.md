@@ -1,3 +1,3 @@
 # Intro to HSSM Workshop
 
-Behavioral Data Science, Spring 2025
+Repository for the Intro to HSSM workshop for Cognitive Modeling, Spring 2026
